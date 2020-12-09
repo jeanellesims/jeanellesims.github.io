@@ -24,7 +24,7 @@ I can also add in hyperlinks to places like [Google](https://www.google.com)
 
 Add in a link to the photo I uploaded:
 
-![testpic](https://github.com/jeanellesims/jeanellesims.github.io/blob/main/No%20Warranty.png?raw=true)
+![testpic](?raw=true)
 
 This is how an email address looks like!
 jnaiman@illinois.edu
