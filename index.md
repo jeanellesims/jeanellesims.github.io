@@ -11,3 +11,10 @@ I can make an unordered list
   1. first point
   2. second point
   3. third point
+
+*this is italicized*
+**this is bold**
+
+I am going to add a figure here from the web:
+
+![this is alt-text for this figure, corgi in a hat](https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png)
