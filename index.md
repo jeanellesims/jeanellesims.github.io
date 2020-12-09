@@ -27,4 +27,4 @@ Add in a link to the photo I uploaded:
 ![testpic](https://github.com/jeanellesims/jeanellesims.github.io/blob/main/UPMIsunset.JPG?raw=true)
 
 This is how an email address looks like!
-![jnaiman@illinois.edu]
+(mailto:jnaiman@illinois.edu)
