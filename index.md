@@ -35,4 +35,4 @@ My name is Jeanelle and this is a test. This is only a test.
 
 ### My Resume
 
-This is a link to [my resume](https://drive.google.com/file/d/1Qxi-laXSKF8RRi_kicJJgxadmwp5-rbI/view?usp=sharing) in PDF format.
+This is a link to [my resume](https://drive.google.com) in PDF format.
